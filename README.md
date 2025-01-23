@@ -1,13 +1,13 @@
-### Olá!! Eu sou o Rafael 👋
+### Olá!! Eu sou o Vitor  👋
 
-- 🌱 Estudando FullStack
-- 📫 Contate-me no e-mail: rafaelsm135@gmail.com
+- 🌱 Estudando 
+- 📫 Contate-me no e-mail: vitoraugustodiasferraz@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
-  <a href="https://github.com/Rafasm21">
+  <a href="https://github.com/vitordf57">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Rafasm21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafasm21&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordf57&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
