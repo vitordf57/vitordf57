@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Vitor  👋
 
-- 🌱 Estudando 
+- 🌱 Estudando Back-End
 - 📫 Contate-me no e-mail: vitoraugustodiasferraz@gmail.com
 - 😄 Pronouns: ele/dele
 
